@@ -1,0 +1,18 @@
+<svg width="1000" height="1000" viewBox="0 0 1000 1000" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <style>
+        svg {background-color:#fafafa; }
+        fill: none;
+        stroke: black;
+        stroke-width: 2px; }
+    </style>
+    <path id="speaker" stroke-linecap="round" d="M 10 16 l 0 9 l 4 0 l 4 8 M 10 16 l 4 0 l 4 -8 m 0 0 l 0 25 " />
+    <path stroke-width="1" d="M 22 14 l 6 -3 M 24 19.5 l 8 0 M 22 26 l 6 3 " />
+
+    <path style="display:none" d=" M 45 15 l 1 -10 l 8 6 l 10 -7 l 8 9 l 13 0 l -7 10 l 5 10 l -11 0 l -4 6 l -8 -5 l -7 6 -6 -7 l -8 2 l 4 -9 l -8 -7 z" />
+    <path id="frame" d=" l28.21,48.54l57.06,18.54l45.65,-18.54l35.27,-38.83l0,-60l-35.27,-48.54l-45.65,-18.54l-57.06,18.54l-28.21,38.83l0,48"/>
+    <path id="row-4" stroke-width="5" d="M 9, 80 h 5 m 3 0 h 5 m 3 0 h 5 m 3 0 h 34 m 3 0 h 5 m 3 0 h 5 m 3 0 h 5" />
+    <path id="row-3" stroke-width="5" d="M 9, 72 h 12 m 2 0 h 5 m 2 0 h 5 m 2 0 h 5 m 2 0 h 5 m 2 0 h 5 m 2 0 h 5 m 2 0 h 5 m 2 0 h 5 m 2 0  h 12 0 " />
+    <path id="row-2" stroke-width="5" d="M 9, 64 h 8 m 2 0 h 5   m 2 0 h 5  m 2 0 h 5  m 2 0 h 5  m 2 0 h 5  m 2 0 h 5  m 2 0 h 5  m 2 0 h 5  m 2 0 h 5 m 2 0 h 9  " />
+    <path id="row-1" stroke-width="5" d="M 9, 56 h 5 m 2 0 h 5 m 2 0 h 5 m 2 0 h 5 m 2 0 h 5 m 2 0 h 5 m 2 0 h 5 m 2 0 h 5 m 2 0 h 5 m 2 0 h 5 m 2 0 h 5 m 2 0 h 5 " />
+    <path id="row-0" stroke-width="2.5" d="M 9,49 h 5 m 5 0 h 5 m 2 0 h 5 0 m 2 0 h 5 0 m 2 0 h 5 m 4 0 h 5 0 m 2 0 h 5  m 2 0 h 5 m 2 0 h 5  m 2 0 h 5 m 4 0 h 5" />
+</svg>

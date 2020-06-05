@@ -1,0 +1,26 @@
+<!docutype html>
+<html>
+    <head>
+        <title>Curves</title>
+    </head>
+    <body>
+            <canvas id="canvas">
+            </canvas>
+            <table>
+                <tr><td># Lines</td>
+                    <td><input type="number" value="3" id="qtyPoints"></td>
+                </tr>
+                <tr><td>Speed</td>
+                    <td><input type="number" id="speed"></td></tr>
+                <tr><td>Progress</td>
+                    <td><input type="range" value="0" min="0" max="100"></td></tr>
+            </table>
+            <script>
+                var ui = {};
+                var list = document.querySelectorAll('*[id=]');
+                list.forEach(e=>{ ui[e.id] = e; });
+                
+
+            </script>
+    </body>
+</html>
